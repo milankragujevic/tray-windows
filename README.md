@@ -84,19 +84,8 @@ createApp(function (err, app) {
 
 ## Requirements
 
-- Node
+- Node 8.x
 - Windows
 - .Net 4.5+
 
-Tested on Windows 8 x64. If you try another configuration, please let me know in an issue if it worked or not.
-
-
-## Contributing
-
-Contributions welcome! Please see CONTRIBUTING.md
-
-- jden <jason@denizac.org>
-
-## License
-
-(c) MMXV jden. ISC License. See LICENSE.md.
+Tested on Windows 10 x64 with Node 8.4.0. If you try another configuration, please let me know in an issue if it worked or not.
