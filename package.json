@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "debug": "^2.1.3",
-    "edge": "^7.10.1",
+    "edge": "github:tjanczuk/edge",
     "xtend": "^4.0.0"
   },
   "repository": "https://github.com/milankragujevic/tray-windows"
